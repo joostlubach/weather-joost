@@ -1,0 +1,11 @@
+1. Create twitter account 'weater_<yourname>'
+2. Go to apps.twitter.com while logged in to new account.
+2a. New application. Website URL is not important. Callback URL leave empty.
+2b. Create access token
+3. Install 'nvm' from https://github.com/creationix/nvm
+4. Run 'nvm install stable'
+5. Create directory, run 'npm init'
+5a. Fill out details. Leave things blank if unsure.
+6. Now you have package.json
+7. Install twitter NPM package: npm install --save twitter
+8. Go to https://github.com/joostlubach/weather-joost for examples.
