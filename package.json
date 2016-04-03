@@ -1,0 +1,11 @@
+{
+  "name": "weather-joost",
+  "version": "1.0.0",
+  "description": "Twitter bot that tells you weather @ specific location.",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "twitter": "^1.2.5"
+  }
+}
